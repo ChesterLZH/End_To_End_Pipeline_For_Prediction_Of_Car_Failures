@@ -1,7 +1,4 @@
 # End-to-end pipeline to predict occurence of car failures
-Lim Zhi Han Chester<br>
-chesterhan.lim@gmail.com<br>
-aiap-Lim-Zhi-Han-Chester-570B<br>
 
 This project is a end to end pipeline, which can be executed to make predictions of car failures based of a test set pulled out from a database.<br>
 <br>
