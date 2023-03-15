@@ -8,7 +8,6 @@ This repository contains:<br>
 * eda.ipynb
 * requirements.txt
 * run.sh
-* <strong>There is no data folder, please load in your data folder</strong>
 
 # Executing pipeline
 The pipeline can be executed by running the run.sh file (tested on MacOS)<br>
